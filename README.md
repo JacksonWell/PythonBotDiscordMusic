@@ -1,2 +1,8 @@
 # PythonBotDiscordMusic
 PythonBotDiscordMusic
+> discord.py[voice] 
+> youtube-dl  
+> aiohttp
+> asyncio  
+> beautifulsoup4 
+> spotipy 
